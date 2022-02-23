@@ -28,4 +28,5 @@ Kunal is working towards empowering communities via Open Source and Education. H
 
 He is the founder of [Community Classroom](https://www.commclassroom.org), an organisation focussed on providing training & mentorship, free of cost. He also started the official [Cloud Native Student Community](https://twitter.com/CNCFStudents) group joined by thousands of students, focussed on getting more young people involved in the ecosystem. These platforms are utilised by conducting hands-on workshops, events, podcasts, and sharing about opportunities in the field.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha
+your profile is amazing!!!!!)
